@@ -17,7 +17,7 @@ Folder English Vietnamese Machine Translation:
 - mT5eval.ipynb: Code for evalulating the model
 - modeltraining.ipynb: Code for finetuning the model
 - Model.txt: text file where the link to the model is
-- Dataset link:[ Dataset]](https://drive.google.com/file/d/140H_Qv92PyoA14iinxhefxUyyGzMGDwk/view?usp=sharing)
+- Dataset link:[Dataset](https://drive.google.com/file/d/140H_Qv92PyoA14iinxhefxUyyGzMGDwk/view?usp=sharing)
 
 
 To test the model, you need:
